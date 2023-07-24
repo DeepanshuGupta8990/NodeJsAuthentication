@@ -39,11 +39,11 @@ Start the development server:
 
 bash
 Copy code
-npm start
-The server will run at http://localhost:3000.
+run command - node index
+The server will run at http://localhost:4500.
 
 Usage
-Open your web browser and go to http://localhost:3000.
+Open your web browser and go to http://localhost:4500.
 You should see the homepage with options to register or log in.
 Click on "Register" to create a new account with your email and password.
 Once registered, you will be redirected to the login page.
